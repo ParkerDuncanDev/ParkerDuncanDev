@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/parkerduncandev" target="blank"><img src="https://img.shields.io/twitter/follow/parkerduncandev?logo=twitter&style=for-the-badge" alt="parkerduncandev" /></a> </p>
 
-- 🔭 I’m currently working on **Blades in the Dark Web Client**
+- 🔭 I’m currently working on **Blades in the Dark Web Client** and **Slashr**
 
 - 🌱 I’m currently learning **SQL, PHP, Node.js**
 
