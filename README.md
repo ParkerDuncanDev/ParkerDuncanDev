@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on a ranked choice boardgame night app!
+🔭 I’m currently working on a ranked choice boardgame night app! 
 
 🌱 I’m currently learning SQL and Java.
 
